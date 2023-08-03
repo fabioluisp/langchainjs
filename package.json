@@ -38,7 +38,6 @@
     "example": "yarn workspace examples start",
     "precommit": "turbo run precommit",
     "docs": "yarn workspace docs dev",
-    "postinstall": "husky install"
   },
   "author": "LangChain",
   "license": "MIT",
@@ -46,7 +45,6 @@
     "@tsconfig/recommended": "^1.0.2",
     "@types/jest": "^29.5.3",
     "dotenv": "^16.0.3",
-    "husky": "^8.0.0",
     "lint-staged": "^13.1.1",
     "prettier": "^2.8.3",
     "typescript": "^5.0.0"
