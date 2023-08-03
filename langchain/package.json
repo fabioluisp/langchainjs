@@ -4,7 +4,7 @@
   "description": "Typescript bindings for langchain",
   "type": "module",
   "engines": {
-    "node": ">=18"
+    "node": ">=14"
   },
   "main": "./index.js",
   "types": "./index.d.ts",
